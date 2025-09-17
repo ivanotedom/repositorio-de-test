@@ -1,4 +1,4 @@
-# repositorio-de-test
+# REPOSITORIO DE TEST
 Repositorio de test
 
 ## Este es un proyecto de ejemplo para IS
